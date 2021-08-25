@@ -1,0 +1,6 @@
+DEBUG:root:this is debug
+INFO:root:this is info
+WARNING:root:warn message
+ERROR:root:error message
+CRITICAL:root:critical message
+WARNING:root:requested 10 vehicles, but could only find 20 spawn points
